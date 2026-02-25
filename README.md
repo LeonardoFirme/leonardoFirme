@@ -4,18 +4,63 @@
 ![Focus](https://img.shields.io/badge/Focus-ERP_&_SaaS_Systems-06B6D4?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Building_the_Future-white?style=for-the-badge)
 
-Sou um desenvolvedor apaixonado pela construção de ecossistemas digitais robustos. Meu foco é transformar complexidade em eficiência através de sistemas de gestão (ERP) e plataformas SaaS de alta performance. Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, cada interface deve ser minimalista e toda arquitetura deve ser escalável.
+### 👨‍💻 My Identity in Code
+
+```typescript
+    interface Developer {
+    name: string;
+    education: string[];
+    currentMainStack: string[];
+    loveLanguages: string[];
+    loveTopics: string[];
+    philosophy: string;
+    }
+
+    const LeonardoFirme: Developer = {
+    name: "Leonardo Firme",
+
+    education: [
+        "Graduado em Análise e Desenvolvimento de Sistemas (ADS) - FAQI"
+    ],
+
+    currentMainStack: [
+        "Next.js 16+",
+        "React 19",
+        "Laravel 11",
+        "Tailwind v4"
+    ],
+
+    loveLanguages: [
+        "TypeScript",
+        "PHP",
+        "SQL"
+    ],
+
+    loveTopics: [
+        "ERP Architecture",
+        "SaaS Scalability",
+        "DX (Developer Experience)",
+        "Minimalist UI"
+    ],
+
+    philosophy: "Profissionalismo exato e precisão técnica."
+    };
+```
+
+Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, cada interface deve ser minimalista e toda arquitetura deve ser escalável.
 
 ![Next.js](https://img.shields.io/npm/v/next?style=for-the-badge&logo=next.js&logoColor=white&color=000000&label=next)
 ![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
 ![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)
 ![Laravel](https://img.shields.io/packagist/v/laravel/framework?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20&label=laravel)
 ![NPM](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white&color=C53636&label=npm)
-![NPM Node](https://img.shields.io/npm/v/node?style=for-the-badge&logo=node.js&logoColor=white&color=339933&label=node)
+![NodeJS](https://img.shields.io/npm/v/node?style=for-the-badge&logo=node.js&logoColor=white&color=339933&label=node)
+
+---
 
 ### 🚀 Minha Stack de Elite (2026)
 
-Trabalho exclusivamente com o que há de mais moderno e estável para garantir que o software de hoje não se torne o legado de amanhã:
+Trabalho exclusivamente com o que há de mais moderno e estável para garantir performance e longevidade:
 
 * **Frontend Pro:** Domino o ecossistema **React 19** e **Next.js 16+**. Implemento arquiteturas modernas baseadas em `proxy.ts`, eliminando dependências de middlewares legados.
 * **Styling & UX:** Especialista em **Tailwind CSS v4**. Utilizo apenas tokens oficiais e padrões de design minimalistas, garantindo suporte nativo a `dark:mode` impecável.
@@ -35,7 +80,7 @@ Eu não apenas utilizo bibliotecas; eu crio as ferramentas que aceleram o desenv
 
 ### 📐 Meus Padrões de Qualidade
 
-Não admito erros comuns. No meu fluxo de trabalho:
+No meu fluxo de trabalho, a precisão é inegociável:
 - **Consistência Visual:** Layouts responsivos com paletas exatas (Grays para Light/Dark).
 - **Integridade de Dados:** Inputs limpos, sem transformações que ocultem a verdade dos dados (anti-uppercase).
 - **Tipagem Estrita:** 100% TypeScript. Se não for tipado, não vai para produção.
