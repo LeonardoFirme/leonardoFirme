@@ -53,6 +53,10 @@
 
 Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, cada interface deve ser minimalista e toda arquitetura deve ser escalável.
 
+---
+
+🧑‍💻 **Minha Stack de Desenvolvimento**
+
 ![Next.js](https://img.shields.io/npm/v/next?style=for-the-badge&logo=next.js&logoColor=white&color=000000&label=next)
 ![React](https://img.shields.io/npm/v/react?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&label=react)
 ![Vue.js](https://img.shields.io/npm/v/vue?style=for-the-badge&logo=vue.js&logoColor=white&color=4FC08D&label=vue.js)
