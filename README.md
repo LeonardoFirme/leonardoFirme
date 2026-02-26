@@ -28,13 +28,13 @@
         "React 19",
         "Laravel 12",
         "Vue.js 3",
-        "Prisma ORM",
-        "TypeScript
+        "TypeScript",
         "Tailwind v4"
     ],
 
     loveLanguages: [
         "TypeScript",
+        "Prisma ORM",
         "PHP",
         "SQL"
     ],
