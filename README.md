@@ -62,13 +62,23 @@ Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, 
 ![Vue.js](https://img.shields.io/npm/v/vue?style=for-the-badge&logo=vue.js&logoColor=white&color=4FC08D&label=vue.js)
 ![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
 ![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)
+![Python](https://img.shields.io/badge/python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ![Laravel](https://img.shields.io/packagist/v/laravel/framework?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20&label=laravel)
 ![GraphQL](https://img.shields.io/npm/v/graphql?style=for-the-badge&logo=graphql&logoColor=white&color=E10098&label=graphql)
 ![Prisma](https://img.shields.io/npm/v/prisma?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748&label=prisma)
+![uv](https://img.shields.io/badge/managed%20by-uv-de5fe9?style=for-the-badge&logo=astral&logoColor=white)
+![Mypy](https://img.shields.io/badge/types-strict-blue?style=for-the-badge&logo=python&logoColor=white)
+
 
 ![NPM](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white&color=C53636&label=npm)
 ![NodeJS](https://img.shields.io/npm/v/node?style=for-the-badge&logo=node.js&logoColor=white&color=339933&label=node)
+
+
+![Github Repo Size](https://img.shields.io/github/repo-size/LeonardoFirme/image-optimizer-cli?style=for-the-badge&logo=github&color=000000)
+![Github License](https://img.shields.io/github/license/LeonardoFirme/image-optimizer-cli?style=for-the-badge&logo=github&color=000000)
+![Mypy Checked](https://img.shields.io/badge/mypy-checked-2ca447?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -108,8 +118,8 @@ No meu fluxo de trabalho, a precisão é inegociável:
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~leonardofirme)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoFirme)
 
----
 
 > **"A precisão no fornecimento de informações é o que diferencia um software comum de uma ferramenta de elite."**
+
 
 ---
