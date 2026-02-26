@@ -26,7 +26,10 @@
     currentMainStack: [
         "Next.js 16+",
         "React 19",
-        "Laravel 11",
+        "Laravel 12",
+        "Vue.js 3",
+        "Prisma ORM",
+        "TypeScript
         "Tailwind v4"
     ],
 
@@ -40,6 +43,7 @@
         "ERP Architecture",
         "SaaS Scalability",
         "DX (Developer Experience)",
+        "UX (User Experience)",
         "Minimalist UI"
     ],
 
@@ -50,8 +54,10 @@
 Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, cada interface deve ser minimalista e toda arquitetura deve ser escalável.
 
 ![Next.js](https://img.shields.io/npm/v/next?style=for-the-badge&logo=next.js&logoColor=white&color=000000&label=next)
+![Vue.js](https://img.shields.io/npm/v/vue?style=for-the-badge&logo=vue.js&logoColor=white&color=4FC08D&label=vue.js)
 ![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
 ![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)
+![Prisma](https://img.shields.io/npm/v/prisma?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748&label=prisma)
 ![Laravel](https://img.shields.io/packagist/v/laravel/framework?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20&label=laravel)
 ![NPM](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white&color=C53636&label=npm)
 ![NodeJS](https://img.shields.io/npm/v/node?style=for-the-badge&logo=node.js&logoColor=white&color=339933&label=node)
