@@ -81,8 +81,8 @@ Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, 
 ![NodeJS](https://img.shields.io/npm/v/node?style=for-the-badge&logo=node.js&logoColor=white&color=339933&label=node)
 
 
-![Github Repo Size](https://img.shields.io/github/repo-size/LeonardoFirme/image-optimizer-cli?style=for-the-badge&logo=github&color=000000)
-![Github License](https://img.shields.io/github/license/LeonardoFirme/image-optimizer-cli?style=for-the-badge&logo=github&color=000000)
+![Github Repo Size](https://img.shields.io/github/repo-size/LeonardoFirme/leonardoFirme?style=for-the-badge&logo=github&color=000000)
+![Github License](https://img.shields.io/github/license/LeonardoFirme/leonardoFirme?style=for-the-badge&logo=github&color=000000)
 ![Mypy Checked](https://img.shields.io/badge/mypy-checked-2ca447?style=for-the-badge&logo=python&logoColor=white)
 
 ---
