@@ -6,49 +6,53 @@
 
 ### 👨‍💻 My Identity in Code
 
-```typescript
-    interface Developer {
-    name: string;
-    education: string[];
-    currentMainStack: string[];
-    loveLanguages: string[];
-    loveTopics: string[];
-    philosophy: string;
+```python
+    from typing import TypedDict, List
+    
+    class Developer(TypedDict):
+        name: str
+        education: List[str]
+        current_main_stack: List[str]
+        love_languages: List[str]
+        love_topics: List[str]
+        philosophy: str
+    
+    leonardo_firme: Developer = {
+        "name": "Leonardo Firme",
+        
+        "education": [
+            "Graduado em Análise e Desenvolvimento de Sistemas (ADS) - FAQI"
+        ],
+        
+        "current_main_stack": [
+            "Next.js 16+",
+            "React 19",
+            "Laravel 12",
+            "Vue.js 3",
+            "Tailwind v4",
+            "Prisma ORM",
+            "Flutter"
+        ],
+        
+        "love_languages": [
+            "TypeScript",
+            "PHP",
+            "SQL",
+            "Python",
+            "Dart"
+        ],
+        
+        "love_topics": [
+            "ERP Architecture",
+            "SaaS Scalability",
+            "Mobile Development",
+            "DX (Developer Experience)",
+            "UX (User Experience)",
+            "Minimalist UI"
+        ],
+        
+        "philosophy": "Profissionalismo exato e precisão técnica."
     }
-
-    const LeonardoFirme: Developer = {
-    name: "Leonardo Firme",
-
-    education: [
-        "Graduado em Análise e Desenvolvimento de Sistemas (ADS) - FAQI"
-    ],
-
-    currentMainStack: [
-        "Next.js 16+",
-        "React 19",
-        "Laravel 12",
-        "Vue.js 3",
-        "TypeScript",
-        "Tailwind v4"
-    ],
-
-    loveLanguages: [
-        "TypeScript",
-        "Prisma ORM",
-        "PHP",
-        "SQL"
-    ],
-
-    loveTopics: [
-        "ERP Architecture",
-        "SaaS Scalability",
-        "DX (Developer Experience)",
-        "UX (User Experience)",
-        "Minimalist UI"
-    ],
-
-    philosophy: "Profissionalismo exato e precisão técnica."
-    };
 ```
 
 Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, cada interface deve ser minimalista e toda arquitetura deve ser escalável.
@@ -59,19 +63,18 @@ Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, 
 
 ![Next.js](https://img.shields.io/npm/v/next?style=for-the-badge&logo=next.js&logoColor=white&color=000000&label=next)
 ![React](https://img.shields.io/npm/v/react?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&label=react)
+![Laravel](https://img.shields.io/packagist/v/laravel/framework?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20&label=laravel)
 ![Vue.js](https://img.shields.io/npm/v/vue?style=for-the-badge&logo=vue.js&logoColor=white&color=4FC08D&label=vue.js)
-![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
 ![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)
-![Python](https://img.shields.io/badge/python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Prisma](https://img.shields.io/npm/v/prisma?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748&label=prisma)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-![Laravel](https://img.shields.io/packagist/v/laravel/framework?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20&label=laravel)
+![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
 ![GraphQL](https://img.shields.io/npm/v/graphql?style=for-the-badge&logo=graphql&logoColor=white&color=E10098&label=graphql)
-![Prisma](https://img.shields.io/npm/v/prisma?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748&label=prisma)
 ![uv](https://img.shields.io/badge/managed%20by-uv-de5fe9?style=for-the-badge&logo=astral&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mypy](https://img.shields.io/badge/types-strict-blue?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ![NPM](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white&color=C53636&label=npm)
