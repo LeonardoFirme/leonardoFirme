@@ -31,7 +31,8 @@
             "Vue.js 3",
             "Tailwind v4",
             "Prisma ORM",
-            "Flutter"
+            "Flutter",
+            "Kotlin"
         ],
         
         "love_languages": [
