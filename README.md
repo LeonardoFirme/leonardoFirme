@@ -40,7 +40,8 @@
             "PHP",
             "SQL",
             "Python",
-            "Dart"
+            "Dart",
+            "Java"
         ],
         
         "love_topics": [
