@@ -6,54 +6,23 @@
 
 ### 👨‍💻 My Identity in Code
 
-```python
-    from typing import TypedDict, List
+```kotlin
+    interface Developer {
+    val name: String
+    val education: List<String>
+    val currentMainStack: List<String>
+    val loveLanguages: List<String>
+    val loveTopics: List<String>
+    val philosophy: String
+    }
     
-    class Developer(TypedDict):
-        name: str
-        education: List[str]
-        current_main_stack: List[str]
-        love_languages: List[str]
-        love_topics: List[str]
-        philosophy: str
-    
-    leonardo_firme: Developer = {
-        "name": "Leonardo Firme",
-        
-        "education": [
-            "Graduado em Análise e Desenvolvimento de Sistemas (ADS) - FAQI"
-        ],
-        
-        "current_main_stack": [
-            "Next.js 16+",
-            "React 19",
-            "Laravel 12",
-            "Vue.js 3",
-            "Tailwind v4",
-            "Prisma ORM",
-            "Flutter",
-            "Kotlin"
-        ],
-        
-        "love_languages": [
-            "TypeScript",
-            "PHP",
-            "SQL",
-            "Python",
-            "Dart",
-            "Java"
-        ],
-        
-        "love_topics": [
-            "ERP Architecture",
-            "SaaS Scalability",
-            "Mobile Development",
-            "DX (Developer Experience)",
-            "UX (User Experience)",
-            "Minimalist UI"
-        ],
-        
-        "philosophy": "Profissionalismo exato e precisão técnica."
+    object LeonardoFirme : Developer {
+        override val name = "Leonardo Firme"
+        override val education = listOf("Graduado em Análise e Desenvolvimento de Sistemas (ADS) - FAQI")
+        override val currentMainStack = listOf("Next.js 16+", "React 19", "Laravel 12", "Vue.js 3", "Tailwind v4", "Prisma ORM", "Flutter", "Kotlin")
+        override val loveLanguages = listOf("TypeScript", "PHP", "SQL", "Python", "Dart", "Java")
+        override val loveTopics = listOf("ERP Architecture", "SaaS Scalability", "Mobile Development", "DX", "UX", "Minimalist UI")
+        override val philosophy = "Profissionalismo exato e precisão técnica."
     }
 ```
 
@@ -69,7 +38,9 @@ Acredito no **profissionalismo exato**: cada linha de código deve ser precisa, 
 ![Vue.js](https://img.shields.io/npm/v/vue?style=for-the-badge&logo=vue.js&logoColor=white&color=4FC08D&label=vue.js)
 ![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)
 ![Prisma](https://img.shields.io/npm/v/prisma?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748&label=prisma)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.37.0-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
 ![GraphQL](https://img.shields.io/npm/v/graphql?style=for-the-badge&logo=graphql&logoColor=white&color=E10098&label=graphql)
