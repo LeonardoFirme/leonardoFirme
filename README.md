@@ -13,34 +13,34 @@ Minha atuação é pautada pelo **profissionalismo exato**: projeto arquiteturas
 🧑‍💻 **Minha Stack de Desenvolvimento**
 
 ### 🌐 Web Ecosystem (SaaS & ERP)
-![Next.js](https://img.shields.io/npm/v/next?style=for-the-badge&logo=next.js&logoColor=white&color=000000&label=next)
-![React](https://img.shields.io/npm/v/react?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&label=react)
-![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=typescript)
-![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4&label=tailwindcss)
-![Vue.js](https://img.shields.io/npm/v/vue?style=for-the-badge&logo=vue.js&logoColor=white&color=4FC08D&label=vue.js)
+![Next.js](https://img.shields.io/npm/v/next?style=for-the-badge&logo=next.js&logoColor=white&color=1a1a1a&labelColor=000000&label=NEXT.JS)
+![React](https://img.shields.io/npm/v/react?style=for-the-badge&logo=react&logoColor=white&color=4ca8c3&labelColor=61DAFB&label=REACT)
+![TypeScript](https://img.shields.io/npm/v/typescript?style=for-the-badge&logo=typescript&logoColor=white&color=265c97&labelColor=3178C6&label=TYPESCRIPT)
+![Tailwind CSS](https://img.shields.io/npm/v/tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white&color=058ba3&labelColor=06B6D4&label=TAILWIND)
+![Vue.js](https://img.shields.io/npm/v/vue?style=for-the-badge&logo=vue.js&logoColor=white&color=3c926b&labelColor=4FC08D&label=VUE.JS)
 
 ### 🔙 Backend & Infrastructure
-![Laravel](https://img.shields.io/packagist/v/laravel/framework?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20&label=laravel)
-![Prisma](https://img.shields.io/npm/v/prisma?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748&label=prisma)
-![GraphQL](https://img.shields.io/npm/v/graphql?style=for-the-badge&logo=graphql&logoColor=white&color=E10098&label=graphql)
-![NodeJS](https://img.shields.io/npm/v/node?style=for-the-badge&logo=node.js&logoColor=white&color=339933&label=node)
-![NPM](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white&color=C53636&label=npm)
+![Laravel](https://img.shields.io/packagist/v/laravel/framework?style=for-the-badge&logo=laravel&logoColor=white&color=c22218&labelColor=FF2D20&label=LARAVEL)
+![Prisma](https://img.shields.io/npm/v/prisma?style=for-the-badge&logo=prisma&logoColor=white&color=1f2631&labelColor=2D3748&label=PRISMA)
+![GraphQL](https://img.shields.io/npm/v/graphql?style=for-the-badge&logo=graphql&logoColor=white&color=ac0074&labelColor=E10098&label=GRAPHQL)
+![NodeJS](https://img.shields.io/npm/v/node?style=for-the-badge&logo=node.js&logoColor=white&color=277527&labelColor=339933&label=NODE.JS)
+![NPM](https://img.shields.io/npm/v/npm?style=for-the-badge&logo=npm&logoColor=white&color=962929&labelColor=C53636&label=NPM)
 
 ### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-21-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3.37.0-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-2.1.10-613ec2?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=7F52FF)
+![Java](https://img.shields.io/badge/JAVA-21-b56a00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
+![Flutter](https://img.shields.io/badge/FLUTTER-3.37.0-014276?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B)
+![Dart](https://img.shields.io/badge/DART-015a95?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
 
 ### 🐍 Python Tooling
-![Python](https://img.shields.io/badge/python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![uv](https://img.shields.io/badge/managed%20by-uv-de5fe9?style=for-the-badge&logo=astral&logoColor=white)
-![Mypy](https://img.shields.io/badge/types-strict-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3.12+-2a5a82?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![uv](https://img.shields.io/badge/MANAGED_BY-UV-a948b1?style=for-the-badge&logo=astral&logoColor=white&labelColor=de5fe9)
+![Mypy](https://img.shields.io/badge/TYPES-STRICT-00008b?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)
 
 ### 📊 Stats & Quality
-![Total Ecosystem Size](https://img.shields.io/badge/Ecosystem_Size-36.5_MB-000000?style=for-the-badge&logo=github&logoColor=white)
-![Mypy Checked](https://img.shields.io/badge/mypy-checked-2ca447?style=for-the-badge&logo=python&logoColor=white)
-![Github License](https://img.shields.io/github/license/LeonardoFirme/leonardoFirme?style=for-the-badge&logo=github&color=000000)
+![Total Ecosystem Size](https://img.shields.io/badge/ECOSYSTEM_SIZE-36.5_MB-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Mypy Checked](https://img.shields.io/badge/MYPY-CHECKED-217d36?style=for-the-badge&logo=python&logoColor=white&labelColor=2ca447)
+![Github License](https://img.shields.io/badge/LICENSE-MIT-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 
 ---
 
